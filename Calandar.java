@@ -2,6 +2,7 @@ package snippet;
 
 import java.util.Scanner;
 
+//there's a date method for Java?
 
 public class Calandar {
 	public static void main(String[] args){
